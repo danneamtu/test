@@ -1,2 +1,2 @@
-console.log('new file js')
+console.log('add new')
 console.log('master branch')
