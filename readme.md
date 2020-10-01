@@ -1,3 +1,4 @@
+git branch (to see all branches)
 git branch newContent (add new branch)
 git checkout newContent (switch to new branch)
 git add . (add files to stage)
